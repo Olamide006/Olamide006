@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Olamide006
-- 👀 I’m interested in being a web developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any project
+-  I’m looking to collaborate on any project
 - 📫 How to reach me horlamidehbabs@gmail.com
 
 <!---
